@@ -1,7 +1,6 @@
 package com.devsuperior.dspesquisa.resources;
 
 import com.devsuperior.dspesquisa.dtos.GameDto;
-import com.devsuperior.dspesquisa.entities.Game;
 import com.devsuperior.dspesquisa.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
