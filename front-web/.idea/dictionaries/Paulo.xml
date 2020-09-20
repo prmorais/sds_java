@@ -2,16 +2,27 @@
   <dictionary name="Paulo">
     <words>
       <w>abaixo</w>
+      <w>aventura</w>
+      <w>axios</w>
+      <w>ação</w>
       <w>botão</w>
+      <w>componente</w>
       <w>escolhendo</w>
       <w>estão</w>
       <w>galera</w>
       <w>gosta</w>
+      <w>gráficos</w>
+      <w>gênero</w>
+      <w>idade</w>
+      <w>iniciado</w>
+      <w>instante</w>
       <w>jogos</w>
       <w>mais</w>
+      <w>plataforma</w>
       <w>quais</w>
       <w>quero</w>
       <w>saiba</w>
+      <w>título</w>
     </words>
   </dictionary>
 </component>
