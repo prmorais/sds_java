@@ -1,7 +1,8 @@
 import React from 'react';
 
 import './style.css';
-import {ReactComponent as Logo} from '../../assets/logo.svg'
+// @ts-ignore
+import {ReactComponent as Logo} from '../../assets/logo.svg';
 
 const Header = () => (
     <header className='main-header'>

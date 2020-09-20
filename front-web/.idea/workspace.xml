@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cbf4c5a-40c6-4b63-995a-9ca515d938f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Paulo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Home/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/pages/Home/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +36,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/pages/Home" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="ts.external.directory.path" value="D:\USB_Desenvolvimento\ws-java\dspesquisa\front-web\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\USB_Desenvolvimento\ws-java\dspesquisa\front-web\src\components\pages\Home" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -52,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600563991845</updated>
-      <workItem from="1600564021855" duration="3844000" />
+      <workItem from="1600564021855" duration="7491000" />
     </task>
     <servers />
   </component>
@@ -63,9 +72,21 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="-1415" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600605796411">
+      <screen x="-1920" y="-113" width="1920" height="1050" />
+    </state>
+    <state x="-1415" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600605796411" />
     <state x="-1296" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600565049193">
       <screen x="-1920" y="-113" width="1920" height="1050" />
     </state>
     <state x="-1296" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600565049193" />
+    <state x="-1546" y="-30" key="SettingsEditor" timestamp="1600607254893">
+      <screen x="-1920" y="-113" width="1920" height="1050" />
+    </state>
+    <state x="-1546" y="-30" key="SettingsEditor/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600607254893" />
+    <state x="-1388" y="183" key="run.anything.popup" timestamp="1600606189812">
+      <screen x="-1920" y="-113" width="1920" height="1050" />
+    </state>
+    <state x="-1388" y="183" key="run.anything.popup/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600606189812" />
   </component>
 </project>
