@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0cbf4c5a-40c6-4b63-995a-9ca515d938f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/Records/Pagination/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Records/Pagination/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Records/helpers.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Records/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Records/types.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/dictionaries/Paulo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/dictionaries/Paulo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Filters/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Charts/chart-options.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Charts/helpers.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Charts/index.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Charts/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Charts/types.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Paulo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Paulo.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Routes.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Routes.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/Records/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Records/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600563991845</updated>
       <workItem from="1600564021855" duration="7491000" />
-      <workItem from="1600635331408" duration="6766000" />
+      <workItem from="1600635331408" duration="15015000" />
     </task>
     <servers />
   </component>
@@ -96,9 +96,9 @@
       <screen x="-1920" y="-113" width="1920" height="1050" />
     </state>
     <state x="-1546" y="-30" key="SettingsEditor/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600607254893" />
-    <state x="-1388" y="183" key="run.anything.popup" timestamp="1600606189812">
+    <state x="-1388" y="183" key="run.anything.popup" timestamp="1600651193578">
       <screen x="-1920" y="-113" width="1920" height="1050" />
     </state>
-    <state x="-1388" y="183" key="run.anything.popup/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600606189812" />
+    <state x="-1388" y="183" key="run.anything.popup/0.0.1366.738/-1920.-113.1920.1050@-1920.-113.1920.1050" timestamp="1600651193578" />
   </component>
 </project>
