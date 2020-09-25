@@ -5,42 +5,42 @@ import com.devsuperior.dspesquisa.entities.Record;
 import java.io.Serializable;
 
 public class RecordInsertDto implements Serializable {
-    private String name;
-    private Integer age;
-    private Long gameId;
+	private static final long serialVersionUID = 1L;
 
-    public RecordInsertDto() {
-    }
+	private String name;
+	private Integer age;
+	private Long gameId;
 
-    public RecordInsertDto(Record entity) {
-        name = entity.getName();
-        age = entity.getAge();
-        gameId = entity.getGame().getId();
-    }
+	public RecordInsertDto() {
+	}
 
+	public RecordInsertDto(Record entity) {
+		name = entity.getName();
+		age = entity.getAge();
+		gameId = entity.getGame().getId();
+	}
 
+	public String getName() {
+		return name;
+	}
 
-    public String getName() {
-        return name;
-    }
+	public void setName(String name) {
+		this.name = name;
+	}
 
-    public void setName(String name) {
-        this.name = name;
-    }
+	public Integer getAge() {
+		return age;
+	}
 
-    public Integer getAge() {
-        return age;
-    }
+	public void setAge(Integer age) {
+		this.age = age;
+	}
 
-    public void setAge(Integer age) {
-        this.age = age;
-    }
+	public Long getGameId() {
+		return gameId;
+	}
 
-    public Long getGameId() {
-        return gameId;
-    }
-
-    public void setGameId(Long gameId) {
-        this.gameId = gameId;
-    }
+	public void setGameId(Long gameId) {
+		this.gameId = gameId;
+	}
 }
